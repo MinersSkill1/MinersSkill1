@@ -1,6 +1,6 @@
-## Hi there 👋
 
-## We are the MinersSkills FRC TEAM from Minas Gerais Brazil.
+
+## Hello Guys 👋, We are the MinersSkills FRC TEAM from Minas Gerais Brazil.
 
 ### We are going to be posting all our robots code on this account wit the intention to help other teams to improve and understand sice the basic of FRC basic code and how a SwerveModule works
 
